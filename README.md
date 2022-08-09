@@ -7,9 +7,6 @@
 
 课程地址：<https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497>
 
-教程地址：《动手学深度学习》<http://zh-v2.d2l.ai/>
-
 竞赛地址：<https://www.kaggle.com/c/classify-leaves>
-
 
 
